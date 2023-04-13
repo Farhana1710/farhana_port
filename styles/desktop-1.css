@@ -13,24 +13,33 @@ input {
 	border: none;
 }
 body {
-  width: 144rem;
-}.desktop-1-iKi {
+  width: 135.4rem;
+}.desktop-1-6yn {
   width: 100%;
-  height: 102.4rem;
+  height: 244.8rem;
   position: relative;
   overflow: hidden;
   background-color: #d6efed;
 }
-.desktop-1-iKi .vector-uQC {
-  width: 76.4816rem;
-  height: 93.177rem;
+.desktop-1-6yn .vector-6MW {
+  width: 66.9609rem;
+  height: 88.7146rem;
   position: absolute;
-  left: 85.4569rem;
-  top: 31.397rem;
+  left: 87.5rem;
+  top: 46.6rem;
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-iKi .vector-N2t {
+.desktop-1-6yn .vector-o12 {
+  width: 60rem;
+  height: 78.8rem;
+  position: absolute;
+  left: 94.5rem;
+  top: 51.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-6yn .vector-KEG {
   width: 81.8871rem;
   height: 74.1786rem;
   position: absolute;
@@ -39,7 +48,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-iKi .star-stroke-long-W96 {
+.desktop-1-6yn .star-stroke-long-G9W {
   width: 5.9325rem;
   height: 7.5416rem;
   position: absolute;
@@ -48,7 +57,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-iKi .vector-QEU {
+.desktop-1-6yn .vector-Pjv {
   width: 81.8871rem;
   height: 74.1786rem;
   position: absolute;
@@ -57,16 +66,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-iKi .vector-vTi {
-  width: 76.4816rem;
-  height: 93.177rem;
-  position: absolute;
-  left: 95.6rem;
-  top: 40.1rem;
-  object-fit: contain;
-  vertical-align: top;
-}
-.desktop-1-iKi .home-Fkt {
+.desktop-1-6yn .home-Ycp {
   width: 15rem;
   height: 5.9rem;
   position: absolute;
@@ -79,7 +79,7 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   white-space: nowrap;
 }
-.desktop-1-iKi .about-v6L {
+.desktop-1-6yn .about-RRi {
   width: 14.9rem;
   height: 5.9rem;
   position: absolute;
@@ -92,7 +92,7 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   white-space: nowrap;
 }
-.desktop-1-iKi .profile-pBi {
+.desktop-1-6yn .profile-73e {
   width: 15.4rem;
   height: 5.9rem;
   position: absolute;
@@ -105,7 +105,7 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   white-space: nowrap;
 }
-.desktop-1-iKi .skillset-vVe {
+.desktop-1-6yn .skillset-DcU {
   width: 17rem;
   height: 5.9rem;
   position: absolute;
@@ -118,7 +118,7 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   white-space: nowrap;
 }
-.desktop-1-iKi .ellipse-1-EmE {
+.desktop-1-6yn .ellipse-1-LBJ {
   width: 71.7rem;
   height: 63.9rem;
   position: absolute;
@@ -127,7 +127,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-iKi .greetings-im-farhana-aKJ {
+.desktop-1-6yn .greetings-im-farhana-fjN {
   width: 61.8rem;
   height: 23.4rem;
   position: absolute;
@@ -140,7 +140,7 @@ body {
   color: #000000;
   font-family: Montserrat, 'Source Sans Pro';
 }
-.desktop-1-iKi .studentdesignerprogrammer-rnc {
+.desktop-1-6yn .studentdesignerprogrammer-9Pe {
   width: 100.3rem;
   height: 7.8rem;
   position: absolute;
@@ -154,7 +154,7 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   white-space: nowrap;
 }
-.desktop-1-iKi .star-filled-long-A2c {
+.desktop-1-6yn .star-filled-long-Rrx {
   width: 5.5rem;
   height: 7rem;
   position: absolute;
@@ -163,12 +163,84 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-iKi .star-filled-long-HN8 {
+.desktop-1-6yn .star-filled-long-MEp {
   width: 3.0643rem;
   height: 3.9rem;
   position: absolute;
   left: 39.9rem;
   top: 43.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-6yn .vector-gXz {
+  width: 76.4816rem;
+  height: 93.177rem;
+  position: absolute;
+  left: 99.1rem;
+  top: 167rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-6yn .vector-DH2 {
+  width: 76.4816rem;
+  height: 93.177rem;
+  position: absolute;
+  left: 108.9rem;
+  top: 168.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-6yn .vector-YaC {
+  width: 104rem;
+  height: 62.3rem;
+  position: absolute;
+  left: 0;
+  top: 126.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-6yn .learning-pana-1-gwJ {
+  width: 75.7438rem;
+  height: 68.3241rem;
+  position: absolute;
+  left: 0.1781rem;
+  top: 147.7043rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-6yn .about-me-1Ct {
+  width: 29.6rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 90.4rem;
+  top: 154.5rem;
+  text-align: center;
+  font-size: 5.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #37796d;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-6yn .im-a-student-currently-pursuing-btech-artificial-intelligence-and-data-science-in-crescent-university-i-want-to-pursue-a-career-as-data-analyst-i7J {
+  width: 54.7rem;
+  height: 41rem;
+  position: absolute;
+  left: 78.25rem;
+  top: 167.8rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.desktop-1-6yn .star-filled-long-uLC {
+  width: 5.5rem;
+  height: 7rem;
+  position: absolute;
+  left: 131.8rem;
+  top: 139.65rem;
   object-fit: contain;
   vertical-align: top;
 }
